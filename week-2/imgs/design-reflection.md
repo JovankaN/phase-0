@@ -1,4 +1,4 @@
 
 
 
-![Site Snapshot](snapshot.png)
+![Site Snapshot](Site-map.png)
