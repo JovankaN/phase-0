@@ -1,2 +1,2 @@
-![Wireframe Index](wireframe-index.png)
-![Wireframe Temp](wireframe-blog-index.png)
+![Wireframe Index](imgs/wireframe-index.png)
+![Wireframe Temp](imgs/wireframe-blog-index.png)
