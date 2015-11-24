@@ -1,0 +1,50 @@
+
+html {
+  background-color: red;
+}
+html {
+  background-color: #ffffff;
+  color: #000080;
+
+}
+a {
+    color: #800080;
+    font-size: 16px;
+}
+a:visited {
+    color: #ff0000;
+}
+
+li {
+    font-size: 14px;
+}
+
+.column1of2, .column2of2 {
+    width: 400px;
+    float: left;
+    margin: 25px;
+}
+
+aside {
+    clear: both;
+}
+
+header{
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+    border-bottom: 1px solid ;
+}
+  .brand {
+  font-size: 25px;
+}
+ .web {
+  border-top:1px solid ;
+  border-bottom: 1px solid ;
+  text-align: center;
+  font-size: 10px;
+ }
+.email {
+  border-bottom: 1px solid ;
+  font-size: 15px;
+}
