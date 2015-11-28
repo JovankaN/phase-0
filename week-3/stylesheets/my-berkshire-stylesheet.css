@@ -1,0 +1,73 @@
+
+html {
+  background-color: red;
+}
+html {
+  background-color: #ffffff;
+  color: #000080;
+
+}
+a {
+    color: #800080;
+    font-size: 16px;
+}
+a:visited {
+    color: #ff0000;
+}
+body{
+  display: block;
+  margin-top: 6px;
+  margin-bottom: 6px;
+  margin-left: 6px;
+  margin-right: 6px;
+}
+li {
+    font-size: 14px;
+}
+
+.column1of2, .column2of2 {
+    width: 400px;
+    height: 400px;
+    float: left;
+    margin: 6px;
+}
+
+aside {
+    clear: both;
+}
+
+header{
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+    border-bottom: 1px solid ;
+}
+  .brand {
+  font-size: 25px;
+}
+ .web {
+  border-top:1px solid ;
+  border-bottom: 1px solid ;
+  text-align: center;
+  font-size: 10px;
+ }
+ .email {
+  border-bottom: 1px solid ;
+  font-size: 15px;
+ }
+
+
+
+  /*
+ What is important to know when linking an external file (like a stylesheet) to an HTML file?
+I think is is important to know the relationship to the document in this case the "stylesheet", and the file name of the document that you want to link in the HTML file.
+
+What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
+ What  helped us with the possitioning is that we added classes in our HTML file , helped us with the organizing and position certain class in a paragraph .I don't think it was too hard but i needed to do research how and where to put the acctual classes.
+What CSS did you use to modify the element style (like size, color, etc.)
+We used like font-text; font-weight ;text-align;border-bottom;border-top;backround-color; color:;etc.
+Did you modify the HTML to include classes or ids? If so, which did you choose and why? If you didn't, how would you know which one to add to your HTML?
+I did modify the HTML i added classes, I chose classes because they helped us a lot with the possitioning of the elements , especially when we divided the links into two columns , but also to align the "Contact" text to move it to the centar of the page,
+When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?
+I wanna say our deffinitelly had cleaner code especially with the fact that we linked our css file in our html,we didn't mess with our html code a lot, but i think what they did was writing CSS directly in the html, which according to my opinion and prefference, it gets a little more confusing. But also my css file didn't include as many possitioning and styling codes as theirs did ,wanna think is due to my basic knowldge in css.
+   */
