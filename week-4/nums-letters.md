@@ -10,27 +10,30 @@ Both Integers and Floats are numbers. In programing language what i call whole n
 I wanna say that when we do arithmetics with integers if the computer can't get the correct answer it always rounds down for example:
 
 ```ruby
-   puts 5/2
-   => 2
-   ```
+ puts 5/2
+ => 2
+ ```
+
 Whereas with floats of course it gives you the exact answer but always have to use it with decimal points for example:
 
  ```ruby
    puts 5.0/2.0
    => 2.5
    ```
+**Mini Challenge**
+
     **Hours in a year**
-
- ```ruby
- puts 24*365
- => 8760
  ```
-    **Minutes in a decade**
+   puts 24 * 365
 
-    ```ruby
+ ```
+
+    **Minutes in a decade**
+    ```
     puts (60*24)*(365*10)
-    => 5256000
+
      ```
+
 
       **Reflect**
 
