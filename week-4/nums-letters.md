@@ -9,34 +9,38 @@ Both Integers and Floats are numbers. In programing language what i call whole n
 **What is the difference between float and integer division? How would you explain the difference to someone who doesn't know anything about programming?**
 I wanna say that when we do arithmetics with integers if the computer can't get the correct answer it always rounds down for example:
 
-```ruby
- puts 5/2
- => 2
- ```  ,
+  ```ruby
+  puts 5/2   
+  => 2
+  ```  
 
-Whereas with floats of course it gives you the exact answer but always have to use it with decimal points for example:
+  Whereas with floats of course it gives you the exact answer but always have to use it with decimal points for example:
 
- ```ruby
-   puts 5.0/2.0
-   => 2.5
-   ``` ;
-**Mini Challenge**
+  ```ruby
+  puts 5.0/2.0
+  => 2.5
+  ```  
+ **Mini Challenge**
 
-    **Hours in a year**
- ```
-   puts 24 * 365
+ **Hours in a year :**
+ 
+  ```ruby
+  puts 24*365
+  ``` 
 
- ``` ;
+ **Minutes in a decade :**
+  
+  ```ruby
+ puts (60 * 24)*(365*10)
+```
+  
+  **Reflect 5** 
+  https://github.com/JovankaN/phase-0/blob/master/week-4/defining-variables.rb 
+  https://github.com/JovankaN/phase-0/blob/master/week-4/basic-math.rb 
+  https://github.com/JovankaN/phase-0/blob/master/week-4/simple-string.rb 
 
-    **Minutes in a decade**
-    ```
-    puts (60*24)*(365*10)
-
-     ```
-
-
-      **Reflect**
-
+  **Reflect 7**
+  
 **How does Ruby handle addition, subtraction, multiplication, and division of numbers?**
 I think if we want Ruby to work as a calculator to be pretty accurate then we should always use floats because it gives us the expected result, the exact result. But we can also use integers and have pretty accurate result, if for example we are dividing integers and we want for the result to be a float we simply use ".to_f"next to the numbers we are lets say dividing, and we'll have a float as a result.And if want to get a integer as a result we simply write ".to_i" next to the numbers .
 **What is the difference between integers and floats?**
