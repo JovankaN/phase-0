@@ -12,21 +12,21 @@ I wanna say that when we do arithmetics with integers if the computer can't get 
 ```ruby
  puts 5/2
  => 2
- ```
+ ```  ,
 
 Whereas with floats of course it gives you the exact answer but always have to use it with decimal points for example:
 
  ```ruby
    puts 5.0/2.0
    => 2.5
-   ```
+   ``` ;
 **Mini Challenge**
 
     **Hours in a year**
  ```
    puts 24 * 365
 
- ```
+ ``` ;
 
     **Minutes in a decade**
     ```
