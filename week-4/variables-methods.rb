@@ -18,6 +18,10 @@ favorite_number = gets.chomp
 bigger_better_number =favorite_number.to_i + 1
 puts bigger_better_number
 
+# Mini challenges:
+https://github.com/JovankaN/phase-0/blob/master/week-4/address/my_solution.rb 
+https://github.com/JovankaN/phase-0/blob/master/week-4/math/my_solution.rb 
+https://github.com/JovankaN/phase-0/blob/master/week-4/define-method/my_solution.rb 
 
 # Reflect:
 
