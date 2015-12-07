@@ -11,7 +11,7 @@
 
 
 <!--
-How can you use Chrome's DevTools inspector to help you format or position elements?
+How can you use Chrome's DevTools inspector to help you format or position elements? 
 We can open the DevTools inspector on a Mac from the main application manu bar select View than Developer than Developer Tools once there we select the Element tab that is the structure of the we page, there we can add or change the  positions of any elements of that page.It is fast way of showing us how the page will look like , once we love how it was styled we save the changes.
 How can you resize elements on the DOM using CSS?
 I think add a height and width properties or if they had it already change the number of it instead height:5em; make them height:8em; same for the width ,
