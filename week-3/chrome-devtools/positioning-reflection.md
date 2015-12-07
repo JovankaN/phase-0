@@ -10,7 +10,7 @@
 
 
 
-<!--
+
 How can you use Chrome's DevTools inspector to help you format or position elements? 
 We can open the DevTools inspector on a Mac from the main application manu bar select View than Developer than Developer Tools once there we select the Element tab that is the structure of the we page, there we can add or change the  positions of any elements of that page.It is fast way of showing us how the page will look like , once we love how it was styled we save the changes.
 How can you resize elements on the DOM using CSS?
@@ -26,4 +26,3 @@ Padding is the space thats inside the element between the content and the border
 What was your impression of this challenge overall? (love, hate, and why?)
 It is not easy for sure , but i would love to have more time to play with it, so much more to learn , and i love it because you can do so many things, it is just amazing.
 
--->
