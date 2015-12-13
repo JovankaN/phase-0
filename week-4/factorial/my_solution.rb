@@ -1,6 +1,10 @@
 # Factorial
 
+<<<<<<< HEAD
+# I worked on this challenge [by myself, with:Tyler Mckenzie ].
+=======
 # I worked on this challenge [by myself, with: Tyler Mckenzie].
+>>>>>>> 62586caf8669d65968321732867f22b1e8180251
 #Pseudocode
 =begin
 Method factorial:

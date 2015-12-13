@@ -35,12 +35,10 @@ p total([1,2,3,4,5,6,7])
 
 # 4. sentence_maker pseudocode
 # make sure all pseudocode is commented out!
-=begin
-
-Method sentence_maker
 
 
-=end
+
+
 
 # Input:
 # Output:
