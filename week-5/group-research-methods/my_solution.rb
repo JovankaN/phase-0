@@ -35,16 +35,15 @@ def my_hash_modification_method!(source, thing_to_modify)
 end
 
 # Identify and describe the Ruby method(s) you implemented.
-#In the First method we'll Go through the each element in the array  with the .each method, and add  one to any integer that you'll find in the array, i used the method is_a? to define the element  "i" in my case, and that is the integer that needed to be changed every time we add 1.
-#In The second we also use the .each method where we go through the hash and add +2 to the value.
+#In the First method we'll Go through the each element in the array  with the .map! which I used. Map! is the destructive form of #map, and map! transforms the original array,  into a new  transformed array, and in my case adds  one to any integer that it'll find in the array, i used the method is_a? to define the element  "i" in my case, and that is the integer that needed to be changed every time we add 1.
+#In The second we  use the .each method where we go through the each pair in the hash and add +2 to the value.
 
 
 # Release 3: Reflect!
 # What did you learn about researching and explaining your research to others?
 #It helped me a lot to repeat what i already knew and maybe look for another possible way.
 #And also telling was much easier then trying to use it and transform it into a code.
-#
-#
+
 
 # Person 3
 def my_array_sorting_method(source)
