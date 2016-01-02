@@ -15,15 +15,16 @@ else {
 }
 //Write a short program that asks for a user to input their favorite food.
 
-var userInput = prompt("Whats your favorite food");
+var userInput = prompt("What's your favorite food");
 if (isNaN(userInput))
   alert("Hey! That's my favorite too!");
-else
+ else
   alert("I don't think i like that!");
 
 
 // Complete one of the exercises: Looping a Triangle, FizzBuzz, or Chess Board
 // Looping a Triangle
+
 var triangle = "#"
 for (var n = 0; n<=7; n++ ) {
   console.log(triangle);
@@ -31,21 +32,22 @@ triangle = triangle.concat("#");
 }
 
 // FizzBuzz
+
 for (var n = 1; n <= 100; n++) {
-  if (n%3 === 0) {
+  if (n%3 === 0 && n%5 ==0) {
+    console.log("FizzBuzz");
+  }
+  else if (n%3 === 0) {
     console.log("Fizz");
   }
   else if (n%5 === 0) {
     console.log("Buzz");
   }
-  else if (n%30 === 0) {
-    console.log("FizzBuzz");
-  }
   else {
     console.log(n);
   }
 }
-// i was close  :)) it just doesn't print "FizzBuzz"   :))!
+// Codecademy :))!
 
 
 // Functions
