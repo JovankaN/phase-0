@@ -12,7 +12,7 @@ var operation = {
   }
   function mean(array){
 
-    return (sum(array)/(array.length);
+    return (sum(array)/(array.length));
   };
 
   function median(array){
