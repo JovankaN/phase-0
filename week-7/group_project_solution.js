@@ -104,6 +104,7 @@
       return array[Math.floor(array.length / 2)];
   }
  }
+<<<<<<< HEAD
 
 // Release 4 User stories:
 // As a user, I want to calculate the sum of an array.
@@ -118,3 +119,6 @@
 // Initially, the tests didn't pass and kept saying "yntaxError: Unexpected
 // // identifier". However, the only refactoring that was required was to remove
 // a superflous "array" and "operation" variables from the top and it worked.
+=======
+};
+>>>>>>> 6a9575e87fdd48420b3352e0b4f99f52cd4aaaf2
