@@ -171,9 +171,11 @@ winner();
 // Reflection
 
 // What did you learn about iterating over nested objects in JavaScript?
+// for ..in function it is pretty helpful when iterating over nested objects.
 // Were you able to find useful methods to help you with this?
+// We did this with for loops and if statement.
 // What concepts were solidified in the process of working through this challenge?
-
+// This challenge was exausting and very confusing , still many things are not very clear ...i underestimated JS for sure .
 
 
 
