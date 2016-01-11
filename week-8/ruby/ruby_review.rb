@@ -62,4 +62,4 @@ p super_fizzbuzz([30, 9, 20, 1]) # => ["FizzBuzz", "Fizz", "Buzz", 1]
 # What is still confusing to you about Ruby?
 # Searching the docs...i a still not confident about it..and the fact that i started mixing up the syntax ...i got kind of worried that i might be forgeting some important stuff..
 # What are you going to study to get more prepared for Phase 1?
-# Iteration, loops for sure that is my weakness, and learning more built-in methods hopefully
+# Iteration, loops, classes inheritance for sure that is my weakness, and learning more built-in methods hopefully.
