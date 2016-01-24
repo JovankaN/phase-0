@@ -119,7 +119,7 @@ card.check_card
 # Reflection
 
 # What was the most difficult part of this challenge for you and your pair?
- # Well first of all we worked and created many variables that we were passing on but it looked a bit messy and not readable, so the  researching to make our code a bit organized and more readable and the whole thing in converting into strings, inetgers etc. i wanna say it was the most difficult part.
+ # Well first of all we worked and created many variables that we were passing on but it looked \n a bit messy and not readable, so the  researching to make our code a bit organized and more readable and the whole thing in converting into strings, inetgers etc. i wanna say it was the most difficult part.
 # What new methods did you find to help you when you refactored?
 # I feel like we could have refactored more , but i already burned out from researching and thinking how to make it more redable..but we used ".replace" method that replaces the contents and taintedness of string with the corresponding values in other string.
 # What concepts or learnings were you able to solidify in this challenge?
